@@ -1,0 +1,43 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "'Meslo Lg S for Powerline'",
+    "editor.tabSize": 2,
+    "python.defaultInterpreterPath": "/opt/homebrew/bin/python3",
+    "redhat.telemetry.enabled": true,
+    "terminal.integrated.fontSize": 14,
+    "workbench.editor.revealIfOpen": true,
+    "git.autofetch": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "[nginx]": {
+        "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+    },
+    "workbench.startupEditor": "none",
+    "yaml.schemas": {
+        "file:///Users/agorlero/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.enabled": true,
+    "xml.server.binary.trustedHashes": [
+        "2e2a7c7906f6f78453641b9c17e41a08e3c88246b535c83c4d303a9847e125a4"
+    ],
+    "atlascode.jira.jqlList": [
+        {
+            "id": "a41d476b-4522-4f0a-a837-cb8665562983",
+            "enabled": true,
+            "name": "My wcc-group Issues",
+            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+            "siteId": "8792c0ef-6bc4-49b2-9854-baa63f30417d",
+            "monitor": true
+        }
+    ],
+    "atlascode.jira.lastCreateSiteAndProject": {
+        "siteId": "8792c0ef-6bc4-49b2-9854-baa63f30417d",
+        "projectKey": "ADC"
+    }
+}
