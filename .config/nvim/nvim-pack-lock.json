@@ -1,0 +1,37 @@
+{
+  "plugins": {
+    "autoclose.nvim": {
+      "rev": "3f86702b54a861a17d7994b2e32a7c648cb12fb1",
+      "src": "https://github.com/m4xshen/autoclose.nvim"
+    },
+    "catppuccin": {
+      "rev": "6efc53e42cfc97700f19043105bf73ba83c4ae7d",
+      "src": "https://github.com/catppuccin/nvim"
+    },
+    "headlines.nvim": {
+      "rev": "bf17c96a836ea27c0a7a2650ba385a7783ed322e",
+      "src": "https://github.com/lukas-reineke/headlines.nvim"
+    },
+    "matchparen.nvim": {
+      "rev": "1a2dcbd026bf99b20b89345883d54823f80a2bee",
+      "src": "https://github.com/monkoose/matchparen.nvim"
+    },
+    "mini.icons": {
+      "rev": "efc85e42262cd0c9e1fdbf806c25cb0be6de115c",
+      "src": "https://github.com/nvim-mini/mini.icons"
+    },
+    "mini.pick": {
+      "rev": "8cb40ee55dd156957b1116eded6135e6aeaa078b",
+      "src": "https://github.com/nvim-mini/mini.pick",
+      "version": "'main'"
+    },
+    "nvim-treesitter": {
+      "rev": "de878155ca66c49b027b1380e4e60a6c665b2630",
+      "src": "https://github.com/nvim-treesitter/nvim-treesitter"
+    },
+    "outline.nvim": {
+      "rev": "1967ef50036b0b1eac4977aeede55915a741afe0",
+      "src": "https://github.com/hedyhli/outline.nvim"
+    }
+  }
+}
